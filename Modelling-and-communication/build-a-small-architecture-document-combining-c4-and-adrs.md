@@ -1,0 +1,1 @@
+# Build a small architecture document combining C4 and ADRs
