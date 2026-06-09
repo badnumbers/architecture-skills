@@ -51,3 +51,5 @@ https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design (
 
 - Event‑Driven Architecture (Confluent)
 https://www.confluent.io/learn/event-driven-architecture/ (confluent.io in Bing)
+
+- https://learn.microsoft.com/en-us/azure/architecture/

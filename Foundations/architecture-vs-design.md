@@ -17,7 +17,7 @@ Typical software architecture patterns include:
 - Event-driven
 - Serverless
 
-Software architecture answers the question 'What are we building?' and typically includes infrastructure as well as or instead of code.
+Software architecture answers the question *What are we building?* and typically includes infrastructure as well as or instead of code.
 
 Software architecture decisions might typically be implemented by an entire team of developers, all working together on some new application or major enhancement.
 
@@ -36,7 +36,7 @@ Typical software design patterns include:
 
 (See [here](https://www.gofpattern.com/design-patterns/module2/three-types-design-patterns.php) for more information about these kinds of design patterns.)
 
-Software design answers the question 'how are we building this?' and is usually about what code gets written.
+Software design answers the question *How are we building this?* and is usually about what code gets written.
 
 It would be typical for a software design decisions to be implemented by a simple developer, perhaps as part of a user stories or series of user stories.
 
