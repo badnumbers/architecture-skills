@@ -105,6 +105,7 @@ This may push you towards:
 
 | Link      | Description |
 | ----------- | ----------- |
+| https://en.wikipedia.org/wiki/Non-functional_requirement | Non-functional requirement on Wikipedia |
 | https://quality.arc42.org/articles/sei-quality-model | Summary of differences between the SEI (Software Engineering Institute) quality model and that of Arc42 |
 | https://microsoft.github.io/code-with-engineering-playbook/design/design-patterns/non-functional-requirements-capture-guide/ | Examples of a wide range of NFRs authored by Microsoft |
 | https://www.amazon.co.uk/dp/1098175514 | Fundamentals of Software Architecture: A Modern Engineering Approach (Richards & Ford) |
