@@ -41,15 +41,15 @@ Although rarely considered quality attributes as such, the following are also im
 
 - Cost
 - Time
-- Skill levels (does anyone know this platform?)
+- Skill levels (*does anyone know this platform?*)
 - Resource availability (obviously linked to point above)
 
 Another less-discussed aspect of trade-off analysis is that since we want to engage stakeholders, we must create an environment for discussion that is inclusive, supportive and balanced.
 
 ## Examples of trade-offs
 
-| Decision      | Good for | Bad for |
-| ----------- | ----------- |
+| Link      | Description | Bad for |
+| ----------- | ----------- | ----------- |
 | Microservices | Scalability, deployability | Complexity, operational overhead [?] |
 | Monolith | Simplicity, performance [?] | Modifiability, team autonomy |
 | Caching | Performance | Performance [ not to mention ease of  support! ] |
