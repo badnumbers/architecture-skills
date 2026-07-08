@@ -51,4 +51,4 @@ https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions (cognit
 https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf (cs.ubc.ca in Bing)
 
 - Quality Attributes (SEI)
-https://wiki.sei.cmu.edu/confluence/display/sei/Quality+Attributes (wiki.sei.cmu.edu in Bing)
+[Software Architecture in Practice)](https://www.amazon.co.uk/Software-Architecture-Practice-SEI-Engineering/dp/0136886094)
